@@ -1,6 +1,7 @@
 #### 开源
 - [Turborepo](https://turbo.net.cn/)
 - [changesets](https://github.com/changesets/changesets)
+- [lint-staged](https://github.com/lint-staged/lint-staged)
 
 #### 文章
 - [git-pre-commit-hook：让代码质量检查自动化起来](https://zhuanlan.zhihu.com/p/1954262077557408203)
