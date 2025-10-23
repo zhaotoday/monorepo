@@ -7,6 +7,7 @@
 - [simple-git-hooks](https://github.com/toplenboren/simple-git-hooks)
 
 #### 文章
+- [前端工程化：使用 lint-staged 实现高效代码检查😉😉😉](https://juejin.cn/post/7412931320067735593)
 - [还在忍受ESLint的吗？要不试试Biome呢](https://juejin.cn/post/7521836790703243316)
 - [代码规范工具（四）Husky+lint-staged+commitlint](https://juejin.cn/post/7380188819188072511)
 - [git-pre-commit-hook：让代码质量检查自动化起来](https://zhuanlan.zhihu.com/p/1954262077557408203)
