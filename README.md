@@ -4,6 +4,7 @@
 - [lint-staged](https://github.com/lint-staged/lint-staged)
 
 #### 文章
+- [还在忍受ESLint的吗？要不试试Biome呢](https://juejin.cn/post/7521836790703243316)
 - [代码规范工具（四）Husky+lint-staged+commitlint](https://juejin.cn/post/7380188819188072511)
 - [git-pre-commit-hook：让代码质量检查自动化起来](https://zhuanlan.zhihu.com/p/1954262077557408203)
 - [一文搞懂pnpm+monorepo的原理](https://juejin.cn/post/7545489305605767195)
