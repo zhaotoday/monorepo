@@ -3,6 +3,8 @@
 - [changesets](https://github.com/changesets/changesets)
 - [lint-staged](https://github.com/lint-staged/lint-staged)
 - [biome](https://github.com/biomejs/biome)
+- [husky](https://github.com/typicode/husky)
+- [simple-git-hooks](https://github.com/toplenboren/simple-git-hooks)
 
 #### 文章
 - [还在忍受ESLint的吗？要不试试Biome呢](https://juejin.cn/post/7521836790703243316)
