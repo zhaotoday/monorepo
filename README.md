@@ -2,6 +2,7 @@
 - [Turborepo](https://turbo.net.cn/)
 - [changesets](https://github.com/changesets/changesets)
 - [lint-staged](https://github.com/lint-staged/lint-staged)
+- [biome](https://github.com/biomejs/biome)
 
 #### 文章
 - [还在忍受ESLint的吗？要不试试Biome呢](https://juejin.cn/post/7521836790703243316)
