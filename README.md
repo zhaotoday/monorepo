@@ -7,6 +7,7 @@
 - [simple-git-hooks](https://github.com/toplenboren/simple-git-hooks)
 
 #### 文章
+- [最详细的前端单元测试入门教程(Vitest)📖](https://juejin.cn/post/7323264134220529700)
 - [Vue3 组件库设计 | 分享 Varlet UI 开源组件库的架构思路](https://juejin.cn/post/7287419040666337335)
 - [前端工程化：使用 lint-staged 实现高效代码检查😉😉😉](https://juejin.cn/post/7412931320067735593)
 - [还在忍受ESLint的吗？要不试试Biome呢](https://juejin.cn/post/7521836790703243316)
