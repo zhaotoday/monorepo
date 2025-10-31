@@ -1,4 +1,5 @@
 #### 开源
+
 - [Turborepo](https://turbo.net.cn/)
 - [changesets](https://github.com/changesets/changesets)
 - [lint-staged](https://github.com/lint-staged/lint-staged)
@@ -7,6 +8,8 @@
 - [simple-git-hooks](https://github.com/toplenboren/simple-git-hooks)
 
 #### 文章
+
+- [分享一下Monorepo 的理解和不同类型项目的目录结构](https://juejin.cn/post/7551334594156789802)
 - [最详细的前端单元测试入门教程(Vitest)📖](https://juejin.cn/post/7323264134220529700)
 - [Vue3 组件库设计 | 分享 Varlet UI 开源组件库的架构思路](https://juejin.cn/post/7287419040666337335)
 - [前端工程化：使用 lint-staged 实现高效代码检查😉😉😉](https://juejin.cn/post/7412931320067735593)
