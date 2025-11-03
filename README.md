@@ -7,6 +7,10 @@
 - [husky](https://github.com/typicode/husky)
 - [simple-git-hooks](https://github.com/toplenboren/simple-git-hooks)
 
+#### 示例
+
+- [fang-common-template](https://github.com/Fangxin920915/fang-common-template)
+
 #### 文章
 
 - [turbo配合pnpm的食用指南](https://juejin.cn/post/7452632102984040500)
