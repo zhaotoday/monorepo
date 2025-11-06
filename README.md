@@ -13,6 +13,7 @@
 
 #### 文章
 
+- [写代码不规范，同事两行泪 😭 用这套一键搞定（ Prettier +ESLint + Husky +lint-staged+Commitlint）](https://juejin.cn/post/7490701078721675283)
 - [turbo配合pnpm的食用指南](https://juejin.cn/post/7452632102984040500)
 - [Monorepo 工具大比拼：为什么我最终选择了 pnpm + Turborepo？](https://juejin.cn/post/7561907345338122240)
 - [分享一下Monorepo 的理解和不同类型项目的目录结构](https://juejin.cn/post/7551334594156789802)
