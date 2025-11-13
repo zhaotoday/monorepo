@@ -14,6 +14,7 @@
 
 #### 文章
 
+- [我用 Turborepo 搭了个 Monorepo 脚手架，开发体验直接起飞！](https://juejin.cn/post/7550673990085165110)
 - [monorepo 最佳实践](https://juejin.cn/post/7498266531962585099)
 - [Vitest下一代前端单元测试框架](https://juejin.cn/post/7505989880285610024)
 - [写代码不规范，同事两行泪 😭 用这套一键搞定（ Prettier +ESLint + Husky +lint-staged+Commitlint）](https://juejin.cn/post/7490701078721675283)
