@@ -14,6 +14,7 @@
 
 #### 文章
 
+- [版本管理实战：Changeset 工作流完全指南（含中英文对照）](https://juejin.cn/post/7563131436061081652)
 - [我用 Turborepo 搭了个 Monorepo 脚手架，开发体验直接起飞！](https://juejin.cn/post/7550673990085165110)
 - [monorepo 最佳实践](https://juejin.cn/post/7498266531962585099)
 - [Vitest下一代前端单元测试框架](https://juejin.cn/post/7505989880285610024)
