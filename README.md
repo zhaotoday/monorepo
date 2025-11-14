@@ -6,6 +6,7 @@
 - [biome](https://github.com/biomejs/biome)
 - [husky](https://github.com/typicode/husky)
 - [simple-git-hooks](https://github.com/toplenboren/simple-git-hooks)
+- [lefthook](https://github.com/evilmartians/lefthook)
 
 #### 示例
 
