@@ -8,6 +8,7 @@
 - [simple-git-hooks](https://github.com/toplenboren/simple-git-hooks)
 - [lefthook](https://github.com/evilmartians/lefthook)
 - [semantic-release](https://github.com/semantic-release/semantic-release)
+- [ultracite](https://github.com/haydenbleasel/ultracite)
 
 #### 示例
 
