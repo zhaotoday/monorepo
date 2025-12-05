@@ -17,6 +17,7 @@
 
 #### 文章
 
+- [大厂前端为什么都爱用pnpm + monorepo 做项目工程化架构？](https://juejin.cn/post/7536142559749046315)
 - [10分钟快速入门Monorepo](https://juejin.cn/post/7443804823886856231)
 - [别再死磕框架了！你的技术路线图该更新了](https://juejin.cn/post/7573694361474629659)
 - [🌟 Monorepo 终极指南：告别项目碎片化，拥抱高效开发！](https://juejin.cn/post/7520461940273725503)
