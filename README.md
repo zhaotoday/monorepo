@@ -9,6 +9,7 @@
 - [lefthook](https://github.com/evilmartians/lefthook)
 - [semantic-release](https://github.com/semantic-release/semantic-release)
 - [ultracite](https://github.com/haydenbleasel/ultracite)
+- [oxc](https://github.com/oxc-project/oxc)
 
 #### 示例
 
