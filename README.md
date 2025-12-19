@@ -18,6 +18,7 @@
 
 #### 文章
 
+- [2025 年「大前端 Monorepo 架构」最佳实践指南](https://juejin.cn/post/7581676787380928531)
 - [弃用 ESLint + Prettier！快 35 倍的 AI 格式化神器！](https://juejin.cn/post/7543094107999141929)
 - [大厂前端为什么都爱用pnpm + monorepo 做项目工程化架构？](https://juejin.cn/post/7536142559749046315)
 - [10分钟快速入门Monorepo](https://juejin.cn/post/7443804823886856231)
