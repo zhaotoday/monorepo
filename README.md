@@ -10,6 +10,7 @@
 - [semantic-release](https://github.com/semantic-release/semantic-release)
 - [ultracite](https://github.com/haydenbleasel/ultracite)
 - [oxc](https://github.com/oxc-project/oxc)
+- [sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action)
 
 #### 示例
 
