@@ -11,6 +11,7 @@
 - [ultracite](https://github.com/haydenbleasel/ultracite)
 - [oxc](https://github.com/oxc-project/oxc)
 - [sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action)
+- [knip](https://knip.dev/)
 
 #### 示例
 
