@@ -20,6 +20,7 @@
 
 #### 文章
 
+- [git提交信息也能自动格式化了？committier快速体验](https://juejin.cn/post/7581408984415338515)
 - [🤯 什么？！还在跪求后端大佬帮你上线项目？NodeSSH 让你前端也能玩转部署：从求人到自主的逆袭之路！](https://juejin.cn/post/7497413393542578227)
 - [2025 年「大前端 Monorepo 架构」最佳实践指南](https://juejin.cn/post/7581676787380928531)
 - [弃用 ESLint + Prettier！快 35 倍的 AI 格式化神器！](https://juejin.cn/post/7543094107999141929)
