@@ -12,6 +12,7 @@
 - [oxc](https://github.com/oxc-project/oxc)
 - [sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action)
 - [knip](https://knip.dev/)
+- [antfu/eslint-config](https://github.com/antfu/eslint-config)
 
 #### 示例
 
