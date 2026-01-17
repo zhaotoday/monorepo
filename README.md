@@ -13,6 +13,7 @@
 - [sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action)
 - [knip](https://knip.dev/)
 - [antfu/eslint-config](https://github.com/antfu/eslint-config)
+- [vite-plugin-remove-console](https://github.com/xiaoxian521/vite-plugin-remove-console)
 
 #### 示例
 
