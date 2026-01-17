@@ -15,6 +15,7 @@
 - [antfu/eslint-config](https://github.com/antfu/eslint-config)
 - [vite-plugin-remove-console](https://github.com/xiaoxian521/vite-plugin-remove-console)
 - [unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
+- [vite-plugin-restart](https://github.com/antfu/vite-plugin-restart)
 
 #### 示例
 
