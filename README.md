@@ -17,6 +17,7 @@
 - [unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
 - [vite-plugin-restart](https://github.com/antfu/vite-plugin-restart)
 - [vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker)
+- [git-rewrite-commits](https://github.com/f/git-rewrite-commits)
 
 #### 示例
 
