@@ -26,6 +26,7 @@
 
 #### 文章
 
+- [🧭 2025 年「大前端 Monorepo 架构」最佳实践指南](https://juejin.cn/post/7581676787380928531)
 - [使用 oxlint + oxfmt 替换 ESLint + Prettier](https://juejin.cn/post/7604685644684673076)
 - [我用 Turborepo 搭了个 Monorepo 脚手架，开发体验直接起飞！](https://juejin.cn/post/7550673990085165110)
 - [从零到一：实现 Changesets 自动化发版全流程](https://juejin.cn/post/7474503566154350632)
