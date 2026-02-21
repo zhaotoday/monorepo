@@ -18,6 +18,7 @@
 - [vite-plugin-restart](https://github.com/antfu/vite-plugin-restart)
 - [vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker)
 - [git-rewrite-commits](https://github.com/f/git-rewrite-commits)
+- [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import)
 
 #### 示例
 
